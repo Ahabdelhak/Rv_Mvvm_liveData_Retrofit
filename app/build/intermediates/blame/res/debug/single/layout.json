@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\0-Advanced Architecture Demos\\Rv_Mvvm_liveData_Retrofit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Android\\0-Advanced Architecture Demos\\Rv_Mvvm_liveData_Retrofit\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\0-Advanced Architecture Demos\\Rv_Mvvm_liveData_Retrofit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\employee_list_item.xml",
+        "source": "E:\\Android\\0-Advanced Architecture Demos\\Rv_Mvvm_liveData_Retrofit\\app\\src\\main\\res\\layout\\employee_list_item.xml"
+    }
+]

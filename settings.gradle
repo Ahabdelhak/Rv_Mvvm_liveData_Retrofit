@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Rv_Mvvm_liveData_Retrofit'
